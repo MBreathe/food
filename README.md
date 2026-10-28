@@ -10,3 +10,7 @@ Other:
 
 - thing1
 - thing2
+
+---
+
+`cp .blueprint.md **.**-**.**.md` - Copy the blueprint file and rename it to the date range you want.
